@@ -1,3 +1,4 @@
+# VMware+Centos7.7+kubeadm部署单机版k8s
 #### 环境
 1. 虚拟机 VMware Workstation 12 Pro(win 7)   
 2. 系统 CentOS Linux release 7.7.1908 (Core)， 最好是最新的版本，在7.2版本的时候安装了很久都失败了    
